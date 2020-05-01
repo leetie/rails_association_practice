@@ -1,0 +1,1 @@
+This mini-project was just some practice to get a feel for model and DB associations in Rails. It involves User, Post, and Comment models that have belongs_to and has_many associations.
